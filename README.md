@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone 👋
+I am a graduate student with a master's degree from Fudan University. My main research area lies within computer vision, with a specific focus on scene text recognition, incremental learning, and recommendation algorithms. I am actively seeking opportunities for doctoral positions. If my work catches your interest, please don't hesitate to get in touch with me.
 
 <!--
 **simplify23/simplify23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
